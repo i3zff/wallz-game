@@ -1,0 +1,12 @@
+{
+  "name": "wallz-game",
+  "version": "1.0.0",
+  "description": "Wallz.gg - A fun wall game",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["game", "wallz", "html5", "canvas"],
+  "author": "i3zff",
+  "license": "MIT"
+}
